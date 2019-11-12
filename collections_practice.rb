@@ -25,4 +25,4 @@ def kesha_maker(array)
 done 
 
 def find_a(array)
-  
+  array
